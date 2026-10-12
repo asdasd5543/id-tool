@@ -50,3 +50,9 @@ python id_tool.py exhaust14 11000020000101 --filter male
 - 不要在仓库中保存真实身份证数据
 - 如果需要真实区域码，请自行提供并遵守当地法律法规
 - 在任何公开场合使用前，务必确认权限和合规性
+
+## 关于中文版与英文版
+
+如需使用中文版请转到https://github.com/asdasd5543/id-tool/releases/tag/v1.0.0
+
+如需英文版请转到https://github.com/asdasd5543/English-version-ID-Tool/releases/tag/v1.0.0
